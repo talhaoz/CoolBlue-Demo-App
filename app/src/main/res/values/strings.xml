@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoolBlue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_fragment_search_hint">Search For...</string>
+    <string name="item_product_shipment_info">Morgen bezorgd</string>
+    <string name="item_product_choice_info">een topklasse iPhoneeen topklasse iPhoneeen topklasse iP</string>
+    <string name="search_empty_info_text">Great products just one search away!</string>
+    <string name="search_cloud_error_info_text">Failed to fetch products\nPlease try again after sometime!</string>
+</resources>
