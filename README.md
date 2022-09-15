@@ -1,6 +1,6 @@
 # CoolBlue App
 
-This app demonstrates to search products by using a mocked CoolBlue API and list them in a grid recyclerview.
+This app demonstrates to search products by using a mocked CoolBlue API and lists them in a grid recyclerview.
 
 - Hilt
 - Coroutines
